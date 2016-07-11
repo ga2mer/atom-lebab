@@ -1,7 +1,7 @@
 {
     "name": "atom-lebab",
     "main": "./lib/atom-lebab",
-    "version": "0.0.1",
+    "version": "0.0.0",
     "description": "Convert ES5 to ES6 use lebab",
     "keywords": [
         "atom",
@@ -13,7 +13,7 @@
     "activationCommands": {
         "atom-workspace": "atom-lebab:convert"
     },
-    "repository": "https://github.com/atom/atom-lebab",
+    "repository": "https://github.com/ga2mer/atom-lebab",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
