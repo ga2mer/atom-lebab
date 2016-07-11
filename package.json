@@ -1,24 +1,24 @@
 {
-    "name": "atom-lebab",
-    "main": "./lib/atom-lebab",
-    "version": "0.0.0",
-    "description": "Convert ES5 to ES6 use lebab",
-    "keywords": [
-        "atom",
-        "lebab",
-        "es5",
-        "es6",
-        "javascript"
-    ],
-    "activationCommands": {
-        "atom-workspace": "atom-lebab:convert"
-    },
-    "repository": "https://github.com/ga2mer/atom-lebab",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {
-        "lebab": "^1.3.3"
-    }
+  "name": "atom-lebab",
+  "main": "./lib/atom-lebab",
+  "version": "0.0.1",
+  "description": "Convert ES5 to ES6 use lebab",
+  "keywords": [
+    "atom",
+    "lebab",
+    "es5",
+    "es6",
+    "javascript"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-lebab:convert"
+  },
+  "repository": "https://github.com/ga2mer/atom-lebab",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "lebab": "^1.3.3"
+  }
 }
