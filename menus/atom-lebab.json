@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Convert ES5 to ES6",
+        "command": "atom-lebab:convert"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Lebab",
+          "submenu": [
+            {
+              "label": "Convert ES5 to ES6",
+              "command": "atom-lebab:convert"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
