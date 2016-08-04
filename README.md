@@ -8,3 +8,6 @@ Usage:
   or
 
 - Press `ctrl+alt+k` / use command pallete
+
+To-Do:
+- Atom "Multiline" support
