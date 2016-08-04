@@ -1,7 +1,7 @@
 {
   "name": "atom-lebab",
   "main": "./lib/atom-lebab",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Convert ES5 to ES6 use lebab",
   "keywords": [
     "atom",
