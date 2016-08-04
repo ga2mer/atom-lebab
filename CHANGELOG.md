@@ -1,3 +1,6 @@
+## 0.2.1
+* Fix line number in selected converting mode
+
 ## 0.2.0 - ES6
 * Switch to full ES6 syntax (#3)
 * Added option to converting code except warnings (#4)
