@@ -1,5 +1,0 @@
-{
-    "atom-text-editor": {
-        "ctrl-alt-k": "atom-lebab:convert"
-    }
-}

@@ -1,4 +1,4 @@
-# atom-lebab package
+# lebab package for Atom
 
 Convert ES5 to ES6/7 use [lebab](https://github.com/mohebifar/lebab)
 
