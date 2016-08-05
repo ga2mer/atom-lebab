@@ -1,5 +1,5 @@
 {
-  "name": "atom-lebab",
+  "name": "lebab",
   "main": "./lib/atom-lebab",
   "version": "0.2.1",
   "description": "Convert ES5 to ES6 use lebab",
@@ -13,18 +13,18 @@
   ],
   "activationCommands": {
     "atom-workspace": [
-        "atom-lebab:convert",
-        "atom-lebab:convert-arrow",
-        "atom-lebab:convert-let",
-        "atom-lebab:convert-arg-spread",
-        "atom-lebab:convert-obj-method",
-        "atom-lebab:convert-obj-shorthand",
-        "atom-lebab:convert-no-strict",
-        "atom-lebab:convert-commonjs",
-        "atom-lebab:convert-class",
-        "atom-lebab:convert-template",
-        "atom-lebab:convert-default-param",
-        "atom-lebab:convert-exponent"
+      "atom-lebab:convert",
+      "atom-lebab:convert-arrow",
+      "atom-lebab:convert-let",
+      "atom-lebab:convert-arg-spread",
+      "atom-lebab:convert-obj-method",
+      "atom-lebab:convert-obj-shorthand",
+      "atom-lebab:convert-no-strict",
+      "atom-lebab:convert-commonjs",
+      "atom-lebab:convert-class",
+      "atom-lebab:convert-template",
+      "atom-lebab:convert-default-param",
+      "atom-lebab:convert-exponent"
     ]
   },
   "repository": "https://github.com/ga2mer/atom-lebab",
