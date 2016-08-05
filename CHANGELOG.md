@@ -1,3 +1,6 @@
+## 0.3.1
+* New name fixes
+
 ## 0.3.0 - Lebab
 * Refactoring (#5)
 * Individual transofrm (#6)
