@@ -1,3 +1,8 @@
+## 0.3.0 - Lebab
+* Refactoring (#5)
+* Individual transofrm (#6)
+* New name (#7)
+
 ## 0.2.1
 * Fix line number in selected converting mode
 
