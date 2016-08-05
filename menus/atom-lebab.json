@@ -15,8 +15,52 @@
           "label": "Lebab",
           "submenu": [
             {
-              "label": "Convert ES5 to ES6",
+              "label": "Convert all",
               "command": "atom-lebab:convert"
+            },
+            {
+              "label": "Arrow function",
+              "command": "atom-lebab:convert-arrow"
+            },
+            {
+              "label": "Let/Const",
+              "command": "atom-lebab:convert-let"
+            },
+            {
+              "label": "Arguments spread operator",
+              "command": "atom-lebab:convert-arg-spread"
+            },
+            {
+              "label": "Object method",
+              "command": "atom-lebab:convert-obj-method"
+            },
+            {
+              "label": "Object shorthand",
+              "command": "atom-lebab:convert-obj-shorthand"
+            },
+            {
+              "label": "Remove \"no strict\"",
+              "command": "atom-lebab:convert-no-strict"
+            },
+            {
+              "label": "CommonJS to import/export",
+              "command": "atom-lebab:convert-commonjs"
+            },
+            {
+              "label": "Class",
+              "command": "atom-lebab:convert-class"
+            },
+            {
+              "label": "Template string",
+              "command": "atom-lebab:convert-template"
+            },
+            {
+              "label": "Default parameters",
+              "command": "atom-lebab:convert-default-param"
+            },
+            {
+              "label": "Exponentiation operator (ES7)",
+              "command": "atom-lebab:convert-exponent"
             }
           ]
         }
