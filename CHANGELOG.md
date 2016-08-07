@@ -1,3 +1,6 @@
+## 0.4.0 - Warnings
+* Warnings now showing in bottom panel (#8)
+
 ## 0.3.1
 * New name fixes
 
