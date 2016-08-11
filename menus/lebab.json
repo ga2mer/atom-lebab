@@ -51,6 +51,10 @@
           {
             "label": "Exponentiation operator (ES7)",
             "command": "lebab:convert-exponent"
+          },
+          {
+            "label": "Multi var",
+            "command": "lebab:convert-multi-var"
           }
         ]
       }
@@ -110,6 +114,10 @@
             {
               "label": "Exponentiation operator (ES7)",
               "command": "lebab:convert-exponent"
+            },
+            {
+              "label": "Multi var",
+              "command": "lebab:convert-multi-var"
             }
           ]
         }

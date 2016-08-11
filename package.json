@@ -2,7 +2,7 @@
   "name": "lebab",
   "main": "./lib/lebab",
   "version": "0.4.0",
-  "description": "Convert ES5 to ES6 use lebab",
+  "description": "Convert ES5 to ES6/7 use lebab",
   "keywords": [
     "atom",
     "lebab",
@@ -24,7 +24,8 @@
       "lebab:convert-class",
       "lebab:convert-template",
       "lebab:convert-default-param",
-      "lebab:convert-exponent"
+      "lebab:convert-exponent",
+      "lebab:convert-multi-var"
     ]
   },
   "repository": "https://github.com/ga2mer/atom-lebab",
@@ -33,6 +34,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "lebab": "^2.0.1"
+    "lebab": "^2.1.0"
   }
 }
