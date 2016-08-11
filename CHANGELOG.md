@@ -1,3 +1,7 @@
+## 0.5.0 - Multi var
+* Update to lebab v2.1.0
+* Add "multi-var" transform
+
 ## 0.4.0 - Warnings
 * Warnings now showing in bottom panel (#8)
 
