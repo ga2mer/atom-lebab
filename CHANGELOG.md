@@ -1,3 +1,7 @@
+## 0.6.0 - For-of
+* Update to lebab v2.2.0
+* Add "for-of" transform
+
 ## 0.5.0 - Multi var
 * Update to lebab v2.1.0
 * Add "multi-var" transform
