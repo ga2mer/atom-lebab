@@ -25,7 +25,8 @@
       "lebab:convert-template",
       "lebab:convert-default-param",
       "lebab:convert-exponent",
-      "lebab:convert-multi-var"
+      "lebab:convert-multi-var",
+      "lebab:convert-for-of"
     ]
   },
   "repository": "https://github.com/ga2mer/atom-lebab",
@@ -34,6 +35,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "lebab": "^2.1.0"
+    "lebab": "^2.2.0"
   }
 }

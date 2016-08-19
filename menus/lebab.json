@@ -55,6 +55,10 @@
           {
             "label": "Multi var",
             "command": "lebab:convert-multi-var"
+          },
+          {
+            "label": "For-of",
+            "command": "lebab:convert-for-of"
           }
         ]
       }
@@ -118,6 +122,10 @@
             {
               "label": "Multi var",
               "command": "lebab:convert-multi-var"
+            },
+            {
+              "label": "For-of",
+              "command": "lebab:convert-for-of"
             }
           ]
         }
