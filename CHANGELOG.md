@@ -1,3 +1,7 @@
+## 0.6.1
+* Improve menus and settings (#11)
+* Ignore warnings by default (#12)
+
 ## 0.6.0 - For-of
 * Update to lebab v2.2.0
 * Add "for-of" transform
