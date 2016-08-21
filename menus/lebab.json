@@ -53,11 +53,11 @@
             "command": "lebab:convert-exponent"
           },
           {
-            "label": "Multi var",
+            "label": "Single var to multiple vars (refactor)",
             "command": "lebab:convert-multi-var"
           },
           {
-            "label": "For-of",
+            "label": "For loop to for-of",
             "command": "lebab:convert-for-of"
           }
         ]
@@ -120,11 +120,11 @@
               "command": "lebab:convert-exponent"
             },
             {
-              "label": "Multi var",
+              "label": "Single var to multiple vars (refactor)",
               "command": "lebab:convert-multi-var"
             },
             {
-              "label": "For-of",
+              "label": "For loop to for-of",
               "command": "lebab:convert-for-of"
             }
           ]
