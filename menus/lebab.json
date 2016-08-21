@@ -17,6 +17,10 @@
             "command": "lebab:convert-let"
           },
           {
+            "label": "For loop to for-of",
+            "command": "lebab:convert-for-of"
+          },
+          {
             "label": "Arguments spread operator",
             "command": "lebab:convert-arg-spread"
           },
@@ -55,10 +59,6 @@
           {
             "label": "Single var to multiple vars (refactor)",
             "command": "lebab:convert-multi-var"
-          },
-          {
-            "label": "For loop to for-of",
-            "command": "lebab:convert-for-of"
           }
         ]
       }
@@ -82,6 +82,10 @@
             {
               "label": "Let/Const",
               "command": "lebab:convert-let"
+            },
+            {
+              "label": "For loop to for-of",
+              "command": "lebab:convert-for-of"
             },
             {
               "label": "Arguments spread operator",
@@ -122,10 +126,6 @@
             {
               "label": "Single var to multiple vars (refactor)",
               "command": "lebab:convert-multi-var"
-            },
-            {
-              "label": "For loop to for-of",
-              "command": "lebab:convert-for-of"
             }
           ]
         }
