@@ -1,13 +1,13 @@
-# lebab package for Atom
+# Lebab package for Atom
 
-Convert ES5 to ES6/7 use [lebab](https://github.com/mohebifar/lebab)
+Converts ES5 to ES6/7 using [Lebab](https://github.com/mohebifar/lebab)
 
 Usage:
-- Select line(or lines) and press `ctrl+alt+k` / use command pallete / select individual transform
+- Select lines and press `ctrl+alt+k` / use command palette / select individual transform
 
   or
 
-- Press `ctrl+alt+k` / use command pallete / select individual transform
+- Press `ctrl+alt+k` / use command palette / select individual transform
 
 To-Do:
 - Atom "Multiline" support
