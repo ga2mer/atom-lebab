@@ -9,6 +9,9 @@
             "command": "lebab:convert"
           },
           {
+            "type": "separator"
+          },
+          {
             "label": "Arrow function",
             "command": "lebab:convert-arrow"
           },
@@ -53,8 +56,14 @@
             "command": "lebab:convert-default-param"
           },
           {
+            "type": "separator"
+          },
+          {
             "label": "Exponentiation operator (ES7)",
             "command": "lebab:convert-exponent"
+          },
+          {
+            "type": "separator"
           },
           {
             "label": "Single var to multiple vars (refactor)",
@@ -74,6 +83,9 @@
             {
               "label": "Convert all",
               "command": "lebab:convert"
+            },
+            {
+              "type": "separator"
             },
             {
               "label": "Arrow function",
@@ -120,8 +132,14 @@
               "command": "lebab:convert-default-param"
             },
             {
+              "type": "separator"
+            },
+            {
               "label": "Exponentiation operator (ES7)",
               "command": "lebab:convert-exponent"
+            },
+            {
+              "type": "separator"
             },
             {
               "label": "Single var to multiple vars (refactor)",
