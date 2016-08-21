@@ -9,12 +9,19 @@
             "command": "lebab:convert"
           },
           {
+            "type": "separator"
+          },
+          {
             "label": "Arrow function",
             "command": "lebab:convert-arrow"
           },
           {
             "label": "Let/Const",
             "command": "lebab:convert-let"
+          },
+          {
+            "label": "For loop to for-of",
+            "command": "lebab:convert-for-of"
           },
           {
             "label": "Arguments spread operator",
@@ -49,16 +56,18 @@
             "command": "lebab:convert-default-param"
           },
           {
+            "type": "separator"
+          },
+          {
             "label": "Exponentiation operator (ES7)",
             "command": "lebab:convert-exponent"
           },
           {
-            "label": "Multi var",
-            "command": "lebab:convert-multi-var"
+            "type": "separator"
           },
           {
-            "label": "For-of",
-            "command": "lebab:convert-for-of"
+            "label": "Single var to multiple vars (refactor)",
+            "command": "lebab:convert-multi-var"
           }
         ]
       }
@@ -76,12 +85,19 @@
               "command": "lebab:convert"
             },
             {
+              "type": "separator"
+            },
+            {
               "label": "Arrow function",
               "command": "lebab:convert-arrow"
             },
             {
               "label": "Let/Const",
               "command": "lebab:convert-let"
+            },
+            {
+              "label": "For loop to for-of",
+              "command": "lebab:convert-for-of"
             },
             {
               "label": "Arguments spread operator",
@@ -116,16 +132,18 @@
               "command": "lebab:convert-default-param"
             },
             {
+              "type": "separator"
+            },
+            {
               "label": "Exponentiation operator (ES7)",
               "command": "lebab:convert-exponent"
             },
             {
-              "label": "Multi var",
-              "command": "lebab:convert-multi-var"
+              "type": "separator"
             },
             {
-              "label": "For-of",
-              "command": "lebab:convert-for-of"
+              "label": "Single var to multiple vars (refactor)",
+              "command": "lebab:convert-multi-var"
             }
           ]
         }
