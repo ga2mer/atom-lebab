@@ -63,6 +63,10 @@
             "command": "lebab:convert-exponent"
           },
           {
+            "label": "Index of to includes (ES7)",
+            "command": "lebab:convert-includes"
+          },
+          {
             "type": "separator"
           },
           {
@@ -137,6 +141,10 @@
             {
               "label": "Exponentiation operator (ES7)",
               "command": "lebab:convert-exponent"
+            },
+            {
+              "label": "Index of to includes (ES7)",
+              "command": "lebab:convert-includes"
             },
             {
               "type": "separator"
