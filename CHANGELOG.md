@@ -1,3 +1,7 @@
+## 0.7.0 - Includes
+* Update to lebab v2.3.0
+* Add "includes" transform
+
 ## 0.6.1
 * Improve menus and settings (#11)
 * Ignore warnings by default (#12)
