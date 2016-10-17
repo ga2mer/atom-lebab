@@ -24,6 +24,10 @@
             "command": "lebab:convert-for-of"
           },
           {
+            "label": "Arguments rest operator",
+            "command": "lebab:convert-arg-rest"
+          },
+          {
             "label": "Arguments spread operator",
             "command": "lebab:convert-arg-spread"
           },
@@ -102,6 +106,10 @@
             {
               "label": "For loop to for-of",
               "command": "lebab:convert-for-of"
+            },
+            {
+              "label": "Arguments rest operator",
+              "command": "lebab:convert-arg-rest"
             },
             {
               "label": "Arguments spread operator",
