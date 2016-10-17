@@ -1,3 +1,7 @@
+## 0.8.0 - arg-rest
+* Update to lebab v2.5.0
+* Add "arg-rest" transform
+
 ## 0.7.0 - Includes
 * Update to lebab v2.3.0
 * Add "includes" transform
