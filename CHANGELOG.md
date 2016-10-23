@@ -1,3 +1,7 @@
+## 0.9.0 - forEach
+* Update to lebab v2.6.0
+* Add "for-each" transform
+
 ## 0.8.0 - arg-rest
 * Update to lebab v2.5.0
 * Add "arg-rest" transform
