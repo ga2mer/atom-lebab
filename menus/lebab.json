@@ -24,6 +24,10 @@
             "command": "lebab:convert-for-of"
           },
           {
+            "label": "For loop to forEach",
+            "command": "lebab:convert-for-each"
+          },
+          {
             "label": "Arguments rest operator",
             "command": "lebab:convert-arg-rest"
           },
@@ -106,6 +110,10 @@
             {
               "label": "For loop to for-of",
               "command": "lebab:convert-for-of"
+            },
+            {
+              "label": "For loop to forEach",
+              "command": "lebab:convert-for-each"
             },
             {
               "label": "Arguments rest operator",
