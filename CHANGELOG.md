@@ -1,3 +1,7 @@
+## 0.10.0 - Destructuring
+* Update to lebab v2.7.0
+* Add "destruct-param" transform
+
 ## 0.9.0 - forEach
 * Update to lebab v2.6.0
 * Add "for-each" transform
