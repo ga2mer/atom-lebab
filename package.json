@@ -24,6 +24,7 @@
       "lebab:convert-class",
       "lebab:convert-template",
       "lebab:convert-default-param",
+      "lebab:convert-destruct-param",
       "lebab:convert-exponent",
       "lebab:convert-multi-var",
       "lebab:convert-for-of",
@@ -38,6 +39,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "lebab": "^2.6.0"
+    "lebab": "^2.7.0"
   }
 }

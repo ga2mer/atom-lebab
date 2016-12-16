@@ -64,6 +64,10 @@
             "command": "lebab:convert-default-param"
           },
           {
+            "label": "Destruct parameters",
+            "command": "lebab:convert-destruct-param"
+          },
+          {
             "type": "separator"
           },
           {
@@ -150,6 +154,10 @@
             {
               "label": "Default parameters",
               "command": "lebab:convert-default-param"
+            },
+            {
+              "label": "Destruct parameters",
+              "command": "lebab:convert-destruct-param"
             },
             {
               "type": "separator"
